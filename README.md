@@ -40,7 +40,7 @@ This tool automates the most error-prone part of that process: turning messy not
 ## Run locally
 
 ```bash
-git clone https://github.com/VyanBot/meeting-notes-action-items
+git clone https://github.com/keerthipriy/Meeting-Notes-Action-Items.git
 cd meeting-notes-action-items
 pip install -r requirements.txt
 streamlit run app.py
@@ -62,5 +62,3 @@ You'll need an Anthropic API key — get one at [console.anthropic.com](https://
 - [ ] Recurring meeting tracker — compare action item completion across weeks
 
 ---
-
-Built by [Vyan Shekh Akhmad](https://linkedin.com/in/vyanshekhakhmad) · MSc Business Analytics, Bayes Business School
